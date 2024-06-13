@@ -52,7 +52,7 @@ $ npm run start
 Authors
 -------
 
-Contributors names and role info
+<!-- Contributors names and role info -->
 
 <!-- | Name                                                           | Roles                            |
 |----------------------------------------------------------------|----------------------------------|
