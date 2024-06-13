@@ -54,10 +54,10 @@ Authors
 
 Contributors names and role info
 
-| Name                                                           | Roles                            |
+<!-- | Name                                                           | Roles                            |
 |----------------------------------------------------------------|----------------------------------|
 | [Tomas Jonauskas](https://github.com/tomasjon1)                | Team Lead, Back-end              |
 | [Almantas Kukalevskij](https://github.com/AlmantasKukalevskij) | Back-end, documentation, testing |
 | Ugnė Meškuotytė                                                | Documentation, design            |
 | [Nojus Burdaitis](https://github.com/Nojus15)                  | Front-end                        |
-| [Martynas Skrebė](https://github.com/martynaskre)              | Back-end, Front-end, deployment  |
+| [Martynas Skrebė](https://github.com/martynaskre)              | Back-end, Front-end, deployment  | -->
